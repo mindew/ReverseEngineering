@@ -1,0 +1,11 @@
+Notes: TCP vs UDP
+
+TCP:
+  - msg makes its way across the Internet
+  - Connection based
+  - Highly reliable
+
+UDP:
+  - msg transport
+  - 1 direction; Not connection based
+  - Fast, efficient transmission -> games
